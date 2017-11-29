@@ -1,6 +1,6 @@
 {
   "name": "Test"
-  "description": "Test",
+  "description"; "Test",
   "version": "0.0.0",
   "main": "indexCaptain.js",
   "scripts": {
