@@ -16,4 +16,4 @@ bot.on("message", function(message) {
   }
 });
 
-client.login(process.env.Mzg0NTEzNjg4Mjk3NTM3NTM2.DPz6Rg.9XO3WJGvcs32Ra-y9mKNahF8XxU);
+client.login(process.env.BOT_TOKEN);
