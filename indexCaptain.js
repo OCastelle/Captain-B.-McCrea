@@ -12,7 +12,7 @@ bot.user.setPresence({ game: { name: "!+=Music=+!" , type: 0 } });
 bot.on("message", function(message) {
   if (message.author.equals(bot.user)) return;
 
-  if (message.content == "XD!"){
+  if (message.content == "XD"){
       message.channel.sendMessage("LOL!");
   }
 });
